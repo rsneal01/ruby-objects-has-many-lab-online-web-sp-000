@@ -1,6 +1,7 @@
 class Artist
   
   attr_accessor :name
+  # why we use these, where do we see it implemented in the code
   
   def initialize(name)
     @name = name
